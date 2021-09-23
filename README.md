@@ -3,6 +3,10 @@
 <p align="justify">
  I am a junior pursuing electronics and communication engineering with honors in International Institute of Information Technology(IIIT) with focus on robotics. I am working as an undergraduate researcher in Robotics Research Center IIIT,Hyderabad under the guidance of <a href="https://nagamanigi.wixsite.com/home">Dr.Nagamanikandan</a>. </p>
  
+  <p align="justify">
+ Working on developing robotic system for domestic applications based on human interaction under guidance of Dr.Nagamanikandan and Dr.Madhava Krishna
+ </p>
+ 
  <p align="justify">
  Interested in collaborating with people whose research interests revolve around robotic mechanism and perception.
  </p>
