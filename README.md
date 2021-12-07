@@ -28,7 +28,7 @@
     <img align="center" alt="Aravind's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
   <a href="https://www.linkedin.com/in/aravind-narayanan-774665144/">
-    <img align="center" alt="Adithya's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="center" alt="Aravind's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </p> 
   
