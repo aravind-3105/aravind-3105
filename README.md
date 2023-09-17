@@ -1,15 +1,12 @@
-### Hi there 👋
+<h1>👋 Hi there!</h1>
+    <p>I'm <strong>Aravind Narayanan</strong>, a passionate Electrical and Computer Engineering enthusiast currently pursuing my Master's degree at the University of Toronto. 🎓 I completed my undergrade program in Electronics and Communication Engineering from IIIT Hyderabad, laying the foundation for my journey in the world of technology.</p>
 
-<p align="justify">
- I am a junior pursuing electronics and communication engineering with honors in International Institute of Information Technology(IIIT) with focus on robotics. I am working as an undergraduate researcher in Robotics Research Center IIIT,Hyderabad under the guidance of <a href="https://nagamanigi.wixsite.com/home">Dr.Nagamanikandan</a>. </p>
- 
-  <p align="justify">
- Working on developing robotic system for domestic applications based on human interaction under guidance of Dr.Nagamanikandan and Dr.Madhava Krishna
- </p>
- 
- <p align="justify">
- Interested in collaborating with people whose research interests revolve around robotic mechanism and perception.
- </p>
+   <p>🤖 My fascination with robotics fuels my desire to innovate and push the boundaries of what's possible. 🤯 I'm on a mission to bridge the gap between theory and real-world applications in this exciting field.</p>
+
+   <p>📊 Additionally, I have a keen interest in analytics, where I leverage data to uncover insights that drive decision-making and problem-solving. 💡</p>
+
+   <p>Join me on this exciting journey as I explore the fascinating realms of Electrical and Computer Engineering, robotics, and analytics. Let's connect, collaborate, and create together!</p>
+</body>
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aravind-3105&show_icons=true&count_private=true&theme=algolia">
