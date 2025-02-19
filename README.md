@@ -9,21 +9,9 @@
 </body>
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aravind-3105&show_icons=true&count_private=true&theme=algolia">
-</p>
-<p align="center">
-<a href="https://github.com/aravind-3105/aravind-3105">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-3105&layout=compact&title_color=CCD6F6&text_color=CCD6F6&icon_color=2bbc8a&bg_color=22272E&hide_border=1&border_radius=15&custom_title=Languages" />
-</a>
-</p?
-<br>
-<p align="center">
   You can connect with me on
 </p>
 <p align="center">
-  <a href="https://discord.com/users/599097615115747351" >
-    <img align="center" alt="Aravind's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
   <a href="https://www.linkedin.com/in/aravind-narayanan-774665144/">
     <img align="center" alt="Aravind's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
