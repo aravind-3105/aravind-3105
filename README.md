@@ -12,8 +12,7 @@
   You can connect with me on
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aravind-narayanan-774665144/">
-    <img align="center" alt="Aravind's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/aravind-n-774665144/">LinkedIn
   </a>
 </p> 
   
